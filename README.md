@@ -1,4 +1,4 @@
-# mariannbarry
+# itsmariannbarry
 profile_revamp
 # 💫 About Me:
 Hi, I’m Mari-Ann  <br>Data Engineer | Azure • Power BI • SQL • Python  <br><br>🔹 Building data pipelines, models, and dashboards  <br>🔹 Learning ML, APIs, and advanced Azure Synapse  <br>🔹 Turning messy data into useful insights  <br><br>🌿 Outside of code: houseplants, horses, baking sourdough, gaming & crochet
